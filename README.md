@@ -356,4 +356,4 @@ public class MainActivity extends AppCompatActivity {
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 ```
 
-具体代码以及demo已经开源到我的github，欢迎star，有问题交流一下，地址：[Vegen的github](https://github.com/Vegen/IOCTest)
+具体请看我的博客，欢迎star，有问题交流一下，博客地址：[Vegen的博客](http://blog.csdn.net/androidtalent/article/details/71374267)
